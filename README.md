@@ -1,16 +1,19 @@
-### Hi there 👋
+# Título do projeto
 
-<!--
-**Arthur-Ferreira-v/Arthur-Ferreira-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é um projeto incrível que faz coisas incríveis.
 
-Here are some ideas to get you started:
+## Instalação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para instalar este projeto, siga estas etapas:
+
+1. Clone este repositório.
+2. Execute o comando `npm install`.
+3. Execute o comando `npm start`.
+
+## Uso
+
+Para usar este projeto, siga estas etapas:
+
+1. Execute o comando `npm start`.
+2. Abra o navegador e navegue até `http://localhost:3000`.
+
