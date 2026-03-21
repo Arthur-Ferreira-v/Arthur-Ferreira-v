@@ -4,15 +4,15 @@
 
 # 👋 Olá, eu sou o Arthur Ferreira!
 
-💻 Desenvolvedor backend em formação  
+💻 Desenvolvedor frontend e backend em formação  
 🚀 Focado em APIs e projetos reais  
 🎓 Estudando Ciência da Computação  
 
 ---
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor em formação focado em backend, buscando evoluir através da construção de projetos reais e bem estruturados.  
-Meu objetivo é dominar o desenvolvimento de APIs e sistemas escaláveis.
+Sou um desenvolvedor em formação focado em front e backend, buscando evoluir através da construção de projetos reais e bem estruturados.  
+Meu objetivo é me tornar um desenvolvedor fullstack e dominar o desenvolvimento de APIs e sistemas escaláveis.
 
 ---
 
@@ -48,10 +48,10 @@ Atualmente focado em desenvolver projetos práticos para consolidar conhecimento
 ---
 
 ## 🎯 Objetivo
-Me tornar um desenvolvedor backend profissional, construindo sistemas reais, eficientes e bem estruturados.
+Me tornar um desenvolvedor fullstack profissional, construindo sistemas reais, eficientes e bem estruturados.
 
 ---
 
 ## 📫 Contato
-- Email: (colocar depois)
+- Email(pessoal): arthurferreiravieira12@gmail.com
 - LinkedIn: (criar depois)
