@@ -54,4 +54,4 @@ Me tornar um desenvolvedor fullstack profissional, construindo sistemas reais, e
 
 ## 📫 Contato
 - Email(pessoal): arthurferreiravieira12@gmail.com
-- LinkedIn: (criar depois)
+- LinkedIn: https://www.linkedin.com/in/arthur-ferreira-vieira-14a0582ba
