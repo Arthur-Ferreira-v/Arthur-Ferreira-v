@@ -61,8 +61,7 @@ Projetos organizados por ano — documentação da minha evolução desde o iní
 
 ## 📈 Estatísticas
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-Ferreira-v&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Ferreira-v&layout=compact&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Arthur-Ferreira-v&theme=radical)
 
 ---
